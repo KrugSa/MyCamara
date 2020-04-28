@@ -1,0 +1,7 @@
+{
+  "name": "MyCamara",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
