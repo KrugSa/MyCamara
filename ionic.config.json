@@ -1,7 +1,8 @@
 {
   "name": "MyCamara",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
